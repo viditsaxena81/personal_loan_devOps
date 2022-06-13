@@ -1,0 +1,20 @@
+{
+    "training":
+    {
+        "n_estimators": 50,
+        "criterion": "gini",
+        "max_depth": 5
+    },
+    "evaluation":
+    {
+
+    },
+    "registration":
+    {
+        "tags": ["score"]
+    },
+    "scoring":
+    {
+        
+    }
+}
